@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9993ea94-a4f0-43cc-b659-9b3d650ceef1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FoodOrderingSystem/OrderSystem.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FoodOrderingSystem/OrderSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYearChecker/YearChecker.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYearChecker/YearChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/SimpleCalc.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/SimpleCalc.java" afterDir="false" />
+    <list default="true" id="9993ea94-a4f0-43cc-b659-9b3d650ceef1" name="Changes" comment="wow">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FoodOrderingSystem/OrderSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FoodOrderingSystem/OrderSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +83,18 @@
       <option name="presentableId" value="Default" />
       <updated>1700120004461</updated>
     </task>
+    <task id="LOCAL-00001" summary="wow">
+      <created>1700126033938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700126033938</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="wow" />
+    <option name="LAST_COMMIT_MESSAGE" value="wow" />
   </component>
 </project>

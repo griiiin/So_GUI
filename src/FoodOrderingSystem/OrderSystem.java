@@ -25,6 +25,7 @@ public class OrderSystem extends JFrame {
 
     public OrderSystem() {
         btnOrder.addActionListener(e-> {
+            DecimalFormat df = new DecimalFormat("0.00");
             double price = 0;
             if (cPizza.isSelected()) price+=100;
             if (cBurger.isSelected()) price+=80;
@@ -35,7 +36,7 @@ public class OrderSystem extends JFrame {
             if (rb5.isSelected()) price-=price/20;
             if (rb10.isSelected()) price-=price/10;
             if (rb15.isSelected()) price-=3*price/20;
-            JOptionPane.showMessageDialog(null, "The total price is Php" + price);
+            JOptionPane.showMessageDialog(null, "The total price is Php " + df.format(price));
         });
     }
 
