@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9993ea94-a4f0-43cc-b659-9b3d650ceef1" name="Changes" comment="" />
+    <list default="true" id="9993ea94-a4f0-43cc-b659-9b3d650ceef1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FoodOrderingSystem/OrderSystem.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FoodOrderingSystem/OrderSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeapYearChecker/YearChecker.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeapYearChecker/YearChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/SimpleCalc.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/SimpleCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="3e8a6d8e-8bdb-4338-b2df-1cd99489fec3" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2YFSnblnLaDwr81765nSCKNiCRM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,9 +41,45 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "285",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\L12Y16W42\IdeaProjects\So_GUI\src\LeapYearChecker" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OrderSystem">
+    <configuration name="OrderSystem" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FoodOrderingSystem.OrderSystem" />
+      <module name="So_GUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalc" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SimpleCalculator.SimpleCalc" />
+      <module name="So_GUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="YearChecker" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="LeapYearChecker.YearChecker" />
+      <module name="So_GUI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.OrderSystem" />
+      <item itemvalue="Application.SimpleCalc" />
+      <item itemvalue="Application.YearChecker" />
+    </list>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
